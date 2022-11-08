@@ -1,4 +1,11 @@
 ## Hi, I'm João
+<li>
+  🇧🇷 Living in Brasil, São Paulo
+  </li>
+<li>
+  Full-Stack Developer
+  </li>
+  <p></p>
 <div align="center">
   <a href="https://github.com/jooaogbriel">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jooaogbriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
