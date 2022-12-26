@@ -3,7 +3,13 @@
   🇧🇷 Living in Brasil, São Paulo
   </li>
 <li>
-  Full-Stack Developer
+  👨🏻‍💻 Full-Stack Developer
+  </li>
+  <li>
+  🚀 1 ano de experiencia
+  </li>
+  <li>
+  📫 e-mail: joao_woork@outlook.com
   </li>
   <p></p>
 <div align="center">
