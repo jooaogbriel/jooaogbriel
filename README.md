@@ -9,7 +9,7 @@
   🚀 1 ano de experiencia
   </li>
   <li>
-  📫 e-mail: joao_woork@outlook.com
+  📫 E-mail: joao_woork@outlook.com
   </li>
   <p></p>
 <div align="center">
