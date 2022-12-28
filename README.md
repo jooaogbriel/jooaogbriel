@@ -1,9 +1,20 @@
 ## 👋 Hi, I'm João
-<li>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
+    </td>
+    <td style="border: 0";>
+      <p>
+        💻 Atualmente sou Desenvolvedor Web Full-Stack.<a/>
+      </p>
+      <p>
+        🎯 Estou em busca de oportunidades para atuar como Desenvolvedor, tenho muito para oferecer com meu conhecimento e disposição.
+      </p>
+      <h3>Sobre mim</h3>
+      <ul>
+        <li>
   🇧🇷 Living in Brasil, São Paulo
-  </li>
-<li>
-  👨🏻‍💻 Full-Stack Developer
   </li>
   <li>
   🚀 1 ano de experiencia
@@ -11,6 +22,10 @@
   <li>
   📫 E-mail: joao_woork@outlook.com
   </li>
+      </ul>
+    </td>
+  </tr>
+</table>
   <p></p>
 <div align="center">
   <a href="https://github.com/jooaogbriel">
@@ -35,3 +50,4 @@
  
  
 </div>
+  
