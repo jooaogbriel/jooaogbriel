@@ -1,4 +1,4 @@
-## 👋 Hi, I'm João
+## Hi, I'm João <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" height="32px" alt="Connect with me" /> 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
