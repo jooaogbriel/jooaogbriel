@@ -2,7 +2,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
+      <img width="400" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
     </td>
     <td style="border: 0";>
       <p>
