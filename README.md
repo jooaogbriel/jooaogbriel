@@ -9,7 +9,7 @@
         💻 Atualmente sou Desenvolvedor Front-end.<a/>
       </p>
       <p>
-        🎯 Estou em busca de oportunidades para atuar como Desenvolvedor, tenho muito para oferecer com meu conhecimento e disposição, sempre estudando as tecnologias mais requisitadas do mercado e buscando experiências para aprender cada vez mais e me desenvolver.
+        🎯 Estou em busca de oportunidades para atuar como Desenvolvedor Jr, tenho muito para oferecer com meu conhecimento e disposição, sempre estudando as tecnologias mais requisitadas do mercado e buscando experiências para aprender cada vez mais e me desenvolver.
       </p>
       <h3>Sobre mim</h3>
       <ul>
