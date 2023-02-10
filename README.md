@@ -6,7 +6,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 Atualmente sou Desenvolvedor Front-end..<a/>
+        💻 Atualmente sou Desenvolvedor Front-end.<a/>
       </p>
       <p>
         🎯 Estou em busca de oportunidades para atuar como Desenvolvedor Jr, tenho muito para oferecer com meu conhecimento e disposição, sempre estudando as tecnologias mais requisitadas do mercado e buscando experiências para aprender cada vez mais e me desenvolver.
