@@ -1,31 +1,16 @@
-## Hi, I'm João  <img src="https://github.com/macagua/macagua/blob/master/assets/img/icons/handshake.gif" style="margin-left:5px" height="32px" alt="Connect with me" /> 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="900" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
-    </td>
-    <td style="border: 0";>
-      <p>
-        💻 Atualmente sou Desenvolvedor Front-end.<a/>
-      </p>
-      <p>
-        🎯 Estou em busca de oportunidades para atuar como Desenvolvedor Jr, tenho muito para oferecer com meu conhecimento e disposição, sempre estudando as tecnologias mais requisitadas do mercado e buscando experiências para aprender cada vez mais e me desenvolver.
-      </p>
-      <h3>Sobre mim</h3>
-      <ul>
-        <li>
-  🇧🇷 Living in Brasil, São Paulo
-  </li>
-  <li>
-  🚀 1 ano de experiencia
-  </li>
-  <li>
-  📫 E-mail: joao_woork@outlook.com
-  </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+
+### Hello, I'm João 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Gabriel-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jooaogbriel/)](https://www.linkedin.com/in/jooaogbriel/)
+
+🎯 Estou em busca de oportunidades para atuar como Desenvolvedor Jr, tenho muito para oferecer com meu conhecimento e disposição, sempre estudando as tecnologias mais requisitadas do mercado e buscando experiências para aprender cada vez mais e me desenvolver. 
+
+- 🇧🇷 Living in Brasil, São Paulo
+- 🚀 + 1 ano de experiencia
+- 📫 E-mail: joao_woork@outlook.com
+
+“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” - Albert Einstein
   <p></p>
 <div align="center">
   <a href="https://github.com/jooaogbriel">
