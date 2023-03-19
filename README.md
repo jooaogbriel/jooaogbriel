@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
 
-### Hello, I'm João 👋
+### Hello, I'm João o👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Gabriel-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jooaogbriel/)](https://www.linkedin.com/in/jooaogbriel/)
 
