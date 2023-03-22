@@ -8,7 +8,7 @@
 
 - 🇧🇷 Living in Brasil, São Paulo
 - 🚀 + 1 ano de experiencia
-- 📫 E-mail: joao_woork@outlook.com
+- 📫 E-mail: joao_i0807@outlook.com
 
 
 <div style="display: inline_block"><br>
