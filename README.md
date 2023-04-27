@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Gabriel-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jooaogbriel/)](https://www.linkedin.com/in/jooaogbriel/)
 
-🎯 Estou em busca de oportunidades para atuar como Desenvolvedor Jr, tenho muito para oferecer com meu conhecimento e disposição, sempre estudando as tecnologias mais requisitadas do mercado e buscando experiências para aprender cada vez mais e me desenvolver. 
+🎯 Estou em busca de oportunidades para atuar como Desenvolvedor Jr, ensiasta de tecnologia, buscando experiências para aprender cada vez mais e me desenvolver, sempre estudando as tecnologias mais requisitadas do mercado. 
 
 - 🇧🇷 Living in Brasil, São Paulo
 - 🚀 + 1 ano de experiencia
