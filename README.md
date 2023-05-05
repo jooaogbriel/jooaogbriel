@@ -21,6 +21,5 @@
  
 </div>
 
-  ##
-  Estudando python... 🐍
+  
  
