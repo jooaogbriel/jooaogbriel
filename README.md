@@ -6,7 +6,7 @@
 
 🎯 Atualmente, forneço suporte abrangente em design técnico, arquitetura de plataforma, segurança, implantação e manutenção de sistemas. Estou constantemente buscando maneiras de melhorar os processos e a eficiência, impulsionando a entrega de projetos bem-sucedidos. Meu objetivo é sempre criar um impacto positivo, fornecendo soluções de alta qualidade e valor duradouro.
 
-Experiência utilizando: Javascript, ReactJs(axios, Styled Components, Context, Rook-Form, YUP, Router–DOM), NextJS, HTML, CSS, TypeScript, Git, Github, PostgreSQL, NodeJs, Tailwind CSS, Styled Components, atualmente: Python(Ai, Machine Learning, TensorFlow, spaCy), Django.
+Experiência utilizando: JavaScript, ReactJs(axios, Styled Components, Context, Rook-Form, YUP, Router–DOM), NextJS, HTML, CSS, TypeScript, Git, Github, PostgreSQL, NodeJs, Tailwind CSS, Styled Components, atualmente: Python(Ai, Machine Learning, TensorFlow, spaCy), Django.
 
 - 🇧🇷 Living in Brasil, São Paulo
 - 🚀 + 1 ano de experiencia
