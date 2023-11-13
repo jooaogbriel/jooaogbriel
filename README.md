@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Gabriel-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jooaogbriel/)](https://www.linkedin.com/in/jooaogbriel/)
 
-🎯 Atualmente, forneço suporte abrangente em design técnico, arquitetura de plataforma, implantação e manutenção de sistemas. Estou constantemente buscando maneiras de melhorar os processos e a eficiência, impulsionando a entrega de projetos bem-sucedidos. Meu objetivo é sempre criar um impacto positivo, fornecendo soluções de alta qualidade e valor duradouro.
+🎯 Atualmente, forneço suporte abrangentee em design técnico, arquitetura de plataforma, implantação e manutenção de sistemas. Estou constantemente buscando maneiras de melhorar os processos e a eficiência, impulsionando a entrega de projetos bem-sucedidos. Meu objetivo é sempre criar um impacto positivo, fornecendo soluções de alta qualidade e valor duradouro.
 
 Experiência utilizando: JavaScript, ReactJs(axios, Styled Components, Context, Rook-Form, YUP, Router–DOM), NextJS, HTML, CSS, TypeScript, Git, Github, PostgreSQL, NodeJs, Tailwind CSS, Styled Components, atualmente: Python(Ai, Machine Learning, TensorFlow, spaCy), Django.
 
